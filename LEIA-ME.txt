@@ -1,0 +1,17 @@
+DASHBOARD MARKETSHARE — TERCEIRO TRIMESTRE 2026
+
+ABRIR: extraia o ZIP e abra index.html em um navegador moderno. As bibliotecas estão incluídas na pasta assets.
+PUBLICAR NO GITHUB PAGES: copie o conteúdo desta pasta para a raiz de um repositório destinado ao terceiro trimestre. Ative Settings > Pages usando a branch e a pasta raiz. Não é necessário compilar.
+
+Funcionalidades: filtros de faixa no gráfico regional; painel das 19 sub-regiões; busca e ordenação na tabela; exportação Excel da seleção visível com consolidado estadual; PDF regional; relatório completo; evolução trimestral e cenários.
+As faixas filtram o gráfico regional. A busca filtra a tabela e a exportação Excel. Os indicadores estaduais permanecem integrais.
+
+Fonte: Word Relatorio_MarketShare_2026_3º Trimestre.docx fornecido pela área.
+CNPJs estaduais: 2.386 distintos; soma regional: 2.579. Não somar as regiões para substituir a contagem estadual.
+Vale dos Sinos 2: CAGED 735; estado: 22.355; MS CAGED: 67,90%.
+O gap não equivale a vagas abertas. Os cenários não representam previsão ou meta aprovada.
+Dados agregados por sub-região; não há dados individuais de escolas, turmas ou CNPJs neste pacote.
+
+Design adaptado do modelo: https://lucdels.github.io/new.dashboard.marketshare.aprendizagem/
+Bibliotecas: Chart.js 4.4.1, jsPDF 2.5.1, SheetJS 0.18.5 e Tailwind CSS (distribuição do modelo). Avisos de licença preservados nos arquivos das bibliotecas.
+Nenhuma publicação foi realizada: Sites indisponível neste espaço. O site original não foi alterado.
